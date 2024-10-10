@@ -1,0 +1,9 @@
+
+INSTRUÇÕES DE COMO IMPORTAR O BOOTSTRAP ICON:
+
+COPIAR O CÓDIGO ABAIXO E COLAR DENTRO DA TAG
+<HEAD> DO HTML
+
+LINK:  
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
